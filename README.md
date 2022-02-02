@@ -12,16 +12,16 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I’m currently persuing master's from IIT Dhanbad In computer science and engineering\
-💡 &nbsp;Some technologies I enjoy working with include ROR, python, c++. Currently exploring Dart/Flutter.\
+💡 &nbsp;Some technologies I enjoy working with include ROR, python, c++,Deep learning and Macine learning. Currently exploring Dart/Flutter and NLP.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at gulshankumar07@outlook.com! I'll try to respond as soon as I can.
 
 
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/gulshan-kumar-07/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Struggling on <a href=" https://leetcode.com/rk930344/">LeetCode</a> 😍
-- Practising on <a href="https://www.codechef.com/users/gulshan07">Codechef</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/gulshan-kumar-07/">LinkedIn</a> 😇
+- Practising on <a href="https://leetcode.com/rk930344/">LeetCode</a> 😍
+- Struggling on <a href="https://www.codechef.com/users/gulshan07">Codechef</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/gulshan-kumar-07/">LinkedIn</a> and <a href="https://twitter.com/Gulshan__1">Twitter</a> 😇
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/GulshanKumarO/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GulshanKumar0/GulshanKumar0/blob/output/github-contribution-grid-snake.gif)
