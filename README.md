@@ -11,7 +11,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I’m currently persuing master's from IIT Dhanbad In computer science and engineering\
+🎓 &nbsp;I’m currently pursuing master's from IIT Dhanbad In computer science and engineering\
 💡 &nbsp;Some technologies I enjoy working with include ROR, python, c++,Deep learning and Macine learning. Currently exploring Dart/Flutter and NLP.\
 🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at gulshankumar07@outlook.com! I'll try to respond as soon as I can.
