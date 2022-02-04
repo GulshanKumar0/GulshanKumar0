@@ -21,6 +21,7 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/gulshan-kumar-07/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Practising on <a href="https://leetcode.com/rk930344/">LeetCode</a> 😍
 - Struggling on <a href="https://www.codechef.com/users/gulshan07">Codechef</a> 🙃
+- checkout my progress on <a href="https://auth.geeksforgeeks.org/user/rk930344/">GFG🙃</a> and on <a href="https://www.interviewbit.com/profile/gulshan-kumar_432">InterviewBit😍</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/gulshan-kumar-07/">LinkedIn</a> and <a href="https://twitter.com/Gulshan__1">Twitter</a> 😇
 
 ## Watch my contributions get eaten by a snake 🐍
